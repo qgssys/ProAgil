@@ -1,0 +1,14 @@
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.deps.json
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.runtimeconfig.json
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.runtimeconfig.dev.json
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csprojAssemblyReference.cache
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csproj.CoreCompileInputs.cache
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorAssemblyInfo.cache
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorAssemblyInfo.cs
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.AssemblyInfoInputs.cache
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.AssemblyInfo.cs
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorTargetAssemblyInfo.cache
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
+C:\CURSOS\Full-Stack_Asp_NET_Core_Angular_EF_Core\DOTNETCORE\ProAgil.Webapi\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
